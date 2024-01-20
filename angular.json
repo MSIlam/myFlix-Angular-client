@@ -15,7 +15,7 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:application",
+          "builder": "@angular-devkit/build-angular:Application",
           "options": {
             "outputPath": "dist/my-flix-angular-client",
             "index": "src/index.html",
