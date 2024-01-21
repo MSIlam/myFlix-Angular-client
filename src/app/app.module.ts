@@ -14,8 +14,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatIconModule } from '@angular/material/icon';
 import { MatToolbarModule } from '@angular/material/toolbar';
 
-
-// import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { UserRegistrationFormComponent} from './user-registration-form/user-registration-form.component';
 import { UserLoginFormComponent } from './user-login-form/user-login-form.component';
@@ -30,9 +28,6 @@ import { GenreInfoComponent } from './genre-info/genre-info.component';
 
 
 const appRoutes: Routes = [
-    // { path: 'home', component: MovieCardComponent},
-    // { path: 'login', component: UserLoginFormComponent},
-    // { path: 'signup', component: UserRegistrationFormComponent},
     { path: 'welcome', component: WelcomePageComponent },
     { path: 'movies', component: MovieCardComponent },
     { path: 'profile', component: UserProfileComponent },
