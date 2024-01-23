@@ -28,6 +28,7 @@ import { GenreInfoComponent } from './genre-info/genre-info.component';
 
 
 const appRoutes: Routes = [
+    { path: '', component: WelcomePageComponent },
     { path: 'welcome', component: WelcomePageComponent },
     { path: 'movies', component: MovieCardComponent },
     { path: 'profile', component: UserProfileComponent },
