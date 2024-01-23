@@ -46,7 +46,6 @@ export class FetchApiDataService {
       catchError(this.handleError)
       );
   }
-
   // Get one movie
   getOneMovie(movieId: string): Observable<any> {
     const token = localStorage.getItem('token');
