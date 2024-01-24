@@ -65,7 +65,8 @@ const appRoutes: Routes = [
         MatFormFieldModule,
         MatSnackBarModule
     ],
-    providers: [],
+    providers: [
+    ],
     bootstrap: [AppComponent]
 })
 export class AppModule { }
