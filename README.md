@@ -47,7 +47,7 @@ Using Angular, build the client-side for an app called myFlix based on its exist
 - gh-pages
 #### The app can be visited at
 GitHub: https://github.com/MSIlam/myFlix-Angular-client.git
-Deployment: https://msilam.github.io/myFlix-Angular-client/
+Deployment: https://msilam.github.io/myFlix-Angular-client/](https://my-flix-angular-client-rl5m7x43i.vercel.app/myFlix-Angular-client/welcome
 
 ------------------------
 ### Other technicalities
